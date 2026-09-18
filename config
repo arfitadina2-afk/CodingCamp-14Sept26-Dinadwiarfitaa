@@ -5,6 +5,8 @@
 	logallrefupdates = true
 	symlinks = false
 	ignorecase = true
+[submodule]
+	active = .
 [remote "origin"]
 	url = https://github.com/arfitadina2-afk/CodingCamp-14Sept26-Dinadwiarfitaa.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
@@ -12,3 +14,5 @@
 	remote = origin
 	merge = refs/heads/main
 	vscode-merge-base = origin/main
+[lfs]
+	repositoryformatversion = 0
